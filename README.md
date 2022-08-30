@@ -1,4 +1,4 @@
-## Olá eu sou o Wendel Conferi
+## Olá eu sou o Wendel ☕️
 
 - 🔭 Today i work with development.
 - 🎒 Studying React ...
