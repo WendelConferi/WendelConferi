@@ -3,7 +3,6 @@
 - 🔭 Today i work with development.
 - 🎒 Studying React ...
 - 📫 Contact me by email: wendel.conferi@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/WendelConferi">
