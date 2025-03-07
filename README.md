@@ -1,7 +1,7 @@
 ## Olá eu sou o Wendel ☕️
 
 - 🔭 Today i work with development.
-- 🎒 Studying React ...
+- 🎒 Studying Java and React Native...
 - 📫 Contact me by email: wendel.conferi@gmail.com
 
 <div align="center">
